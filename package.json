@@ -15,7 +15,15 @@
   "author": "Jaime Diaz",
   "license": "ISC",
   "bin": {
-    "random-msg": "./bin/global.js" 
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hariasimov21/jd-random.msg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hariasimov21/jd-random.msg/issues"
+  },
+  "homepage": "https://github.com/hariasimov21/jd-random.msg#readme"
 }
